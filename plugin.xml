@@ -11,8 +11,8 @@
         <clobbers target="CordovaFacebook" />
     </js-module>
 
-    <preference name="FACEBOOK_APP_ID" value="342741805864103" />
-    <preference name="FACEBOOK_DISPLAY_NAME" value="Celltree Android" />
+    <param name="FACEBOOK_APP_ID" value="342741805864103" />
+    <param name="FACEBOOK_DISPLAY_NAME" value="Celltree Android" />
 
     <!-- ios -->
     <platform name="ios">
