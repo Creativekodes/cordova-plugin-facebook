@@ -12,7 +12,7 @@
     </js-module>
 
     <param name="FACEBOOK_APP_ID" value="342741805864103" />
-    <param name="FACEBOOK_DISPLAY_NAME" value="Celltree Android" />
+    <param name="FACEBOOK_DISPLAY_NAME" value="Celltree" />
 
     <!-- ios -->
     <platform name="ios">
